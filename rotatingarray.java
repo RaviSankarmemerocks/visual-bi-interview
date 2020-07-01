@@ -14,11 +14,11 @@ public class rotatingarray {
         
         int k=22;
        // int k=sc.nextInt(); getting rotations;
-        if(k>=a.length){
+        
             while(k>=a.length){
             k=Math.abs(a.length-k);
             }
-        }
+        
         
         int count=0;
         int i=0;
