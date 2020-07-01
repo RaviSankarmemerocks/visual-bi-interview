@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 import java.util.ArrayList;
-public class Ageprobvbi {
+public class ageregistry {
     public static void main(String args[]){
         ArrayList<String> age_group=new ArrayList<String>();
         
